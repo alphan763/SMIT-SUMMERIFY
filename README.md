@@ -5,5 +5,4 @@ About The project
     > Medium, it about 100 150 words
     > Long, it about 200 to 250
 
-    
 
