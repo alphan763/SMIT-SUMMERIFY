@@ -5,4 +5,3 @@ About The project
     > Medium, it about 100 150 words
     > Long , the weight of the sentence wil be 200
  
- 
